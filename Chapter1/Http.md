@@ -1,3 +1,6 @@
+<div align="center">
+  <h1 style="color:#2c3e50;">🧩 HTTP Temelleri</h1>
+</div>
 <h2>🌐 HTTP Nedir?</h2>
 <blockquote>
   <strong>HTTP (Hypertext Transfer Protocol)</strong>, istemci ve sunucu arasında veri alışverişini sağlayan temel protokoldür.
@@ -6,7 +9,7 @@
 <h3>🛠️ HTTP'nin Temel Özellikleri</h3>
 <ul>
   <li><strong>İstemci-Sunucu Modeli:</strong> Tarayıcı (istemci), veriyi sunucudan ister; sunucu yanıt döner.</li>
-  <li><strong>İstek ve Yanıt:</strong> <em>Request</em> ve <em>Response</em> yapılarından oluşur.</li>
+  <li><strong>İstek ve Yanıt:</strong> <em>Request(İstek)</em> ve <em>Response(Cevap)</em> yapılarından oluşur.</li>
   <li><strong>Stateless:</strong> Her HTTP isteği bağımsızdır, oturum bilgisi içermez.</li>
 </ul>
 
@@ -58,5 +61,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <em>Hazırlayan: <strong>Senin Adın</strong> • GitHub Notları • 2025</em>
+  <em>Hazırlayan: <strong>Büşra Güneş</strong> • Asp.Net Core Web API Notları • 2025</em>
 </div>
