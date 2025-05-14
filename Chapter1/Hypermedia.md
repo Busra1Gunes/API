@@ -47,7 +47,7 @@ RESTful API'de "hypermedia"(ya da daha yaygın olarak HATEOAS) terimi , API'nin 
 </blockquote>
 <h2>📨 Olgunluk Seviyesi Piramidi</h2>
 <div align="center">
-  <img src="images/Diagram.png" alt="Request 1" width="450" style="margin-bottom:10px;"><br>
+  <img src="Images/Diagram.png" alt="Request 1" width="450" style="margin-bottom:10px;"><br>
 </div>
 <!-- Footer -->
 <div align="center">

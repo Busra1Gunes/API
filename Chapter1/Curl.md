@@ -9,7 +9,7 @@ API'ler ile etkileşime geçmek için de sıklıkla curl kullanılır.
 Kısacası, curl bir araçtır ve API'ler ile etkileşimde bulunmak için kullanılabilir. Örneğin, bir web API'sine GET isteği göndermek için curl kullanabilirsiniz. Örnek bir curl komutu şu şekilde olabilir:
 </blockquote>
 <p></p>
-<img src="images/curl.png" > 
+<img src="Images/curl.png" > 
 
 <blockquote>
 <p>bu komut, <i>  https://api.example.com/data  </i> adresine bir GET isteği gönderir ve Authorization başlığı ile kimlik doğrulaması yapar.</p>

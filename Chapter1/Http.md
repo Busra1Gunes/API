@@ -3,7 +3,7 @@
 </div>
 <h2>🌐 HTTP Nedir?</h2>
 <blockquote>
-  <strong>HTTP (Hypertext Transfer Protocol)</strong>, istemci ve sunucu arasında veri alışverişini sağlayan temel protokoldür.
+  <strong>HTTP (Hypertext Transfer Protocol)</strong>, istemci ve sunucu arasında veri alışverişini sağlayan temel <strong>protokoldür.</strong>
 </blockquote>
 
 <h3>🛠️ HTTP'nin Temel Özellikleri</h3>
@@ -42,9 +42,9 @@
 <!-- Request Yapısı -->
 <h2>📨 HTTP Request Yapısı</h2>
 <div align="center">
-  <img src="images/Request1.png" alt="Request 1" width="450" style="margin-bottom:10px;"><br>
-  <img src="images/Request2.png" alt="Request 2" width="450" style="margin-bottom:10px;"><br>
-  <img src="images/Request3.png" alt="Request 3" width="450"><br>
+  <img src="Images/Request1.png" alt="Request 1" width="450" style="margin-bottom:10px;"><br>
+  <img src="Images/Request2.png" alt="Request 2" width="450" style="margin-bottom:10px;"><br>
+  <img src="Images/Request3.png" alt="Request 3" width="450"><br>
 </div>
 
 <hr>
@@ -52,9 +52,9 @@
 <!-- Response Yapısı -->
 <h2>📬 HTTP Response Yapısı</h2>
 <div align="center">
-  <img src="images/Responce1.png" alt="Response 1" width="450" style="margin-bottom:10px;"><br>
-  <img src="images/Response2.png" alt="Response 2" width="450" style="margin-bottom:10px;"><br>
-  <img src="images/Response3.png" alt="Response 3" width="450"><br>
+  <img src="Images/Request1.png" alt="Response 1" width="450" style="margin-bottom:10px;"><br>
+  <img src="Images/Response2.png" alt="Response 2" width="450" style="margin-bottom:10px;"><br>
+  <img src="Images/Response3.png" alt="Response 3" width="450"><br>
 </div>
 
 <hr>

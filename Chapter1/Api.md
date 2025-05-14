@@ -8,7 +8,7 @@
 <!-- API Nedir -->
 <h2>📌 API Nedir?</h2>
 <blockquote>
-  <strong>API (Application Programming Interface)</strong>, yazılım bileşenlerinin birbirleriyle haberleşmesini sağlayan bir arayüzdür. <br>
+  <strong>API (Application Programming Interface)</strong>, Yazılım bileşenlerinin birbirleriyle haberleşmesini sağlayan bir  <strong>arayüzdür. </strong> <br>
   Modern web uygulamalarının entegre çalışabilmesi için bir dizi tanım ve protokol sunar.
 </blockquote>
 
